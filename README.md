@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything, literally.**
 
-- 🤝 I’m looking for help with **everything related to coding for hours with chronic back pain.**
+- 🤝 I’m looking to work with **everything related to coding for hours. I just love the back pain.**
 
 - 📫 How to reach me **tarunkakani007@gmail.com**
 
