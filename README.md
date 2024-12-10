@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **game development.**
 
-- 🌱 I’m currently learning **the C family, I just love the pain.**
+- 🌱 I’m currently learning **the C family, absolute nightmare:)**
 
 - 👯 I’m looking to collaborate on **anything, literally.**
 
