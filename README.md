@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun Kakani</h1>
-<h3 align="center">Just another programmer claiming to be a good developer.</h3>
+<h3 align="center">Knowledge is Power. Science is Power.</h3>
 
 - 🔭 I’m currently working on **game development.**
 
