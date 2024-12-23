@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **game development.**
 
-- 🌱 I’m currently learning **the C family, absolute nightmare:)**
+- 🌱 I’m currently learning **C / C++, absolute nightmare:)**
 
 - 👯 I’m looking to collaborate on **anything, literally.**
 
