@@ -1,6 +1,6 @@
 # Yo, the name is tarunKakani!
 I like programming, espacially in low level languages.
-I luv linux.
+I luv linux and dynamic programming.(Solving problems)
 Beginner btw.
 
 ## Here are my stats 📊
