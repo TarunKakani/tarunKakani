@@ -11,5 +11,5 @@ Beginner btw.
 ## Proficient Skills⭐️
 [![My Skills](https://skillicons.dev/icons?i=c,python,mysql,sqlite,git,docker,kubernetes,godot,linux,arduino,neovim)](https://skillicons.dev)
 
-## Weak Links
-[![My Skills](https://skillicons.dev/icons?i=js,react,cpp)](https://skillicons.dev)
+## Weak Links and In Progress
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,rust,rails,django,flask,go)](https://skillicons.dev)
