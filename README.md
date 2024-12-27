@@ -8,5 +8,8 @@ Beginner btw.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Skills ⭐️
-[![My Skills](https://skillicons.dev/icons?i=js,react,c,cpp,python,lua,git,docker,kubernetes,godot,linux,blender,arduino,neovim)](https://skillicons.dev)
+## Proficient Skills⭐️
+[![My Skills](https://skillicons.dev/icons?i=c,python,mysql,sqlite,git,docker,kubernetes,godot,linux,arduino,neovim)](https://skillicons.dev)
+
+## Weak Links
+[![My Skills](https://skillicons.dev/icons?i=js,react,cpp)](https://skillicons.dev)
