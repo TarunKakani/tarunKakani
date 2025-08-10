@@ -1,6 +1,13 @@
 # Yo, the name is Tarun Kakani!
-I like programming, espacially in low level languages.
-I luv linux and dynamic programming.(Solving problems)
+I like programming, espacially in low level or system languages.
+I luv linux and cyber secuirty.
+
+Blue teams are the jack of all trades!
+
 Beginner btw.
 
-I hate frontend work.
+I hate frontend work.(Imgaine doing react)
+
+Always interested in : Backend, Embedded Systems(IOT), Cyber Defense, Machine Learning, Systems & Scripting.
+
+[![Stack](https://skillicons.dev/icons?i=c,c++,java,python,javascript,rust,go,bash,powershell&perline=4)](https://skillicons.dev)
