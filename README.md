@@ -10,4 +10,4 @@ I hate frontend work.(Imgaine doing react)
 
 Always interested in : Backend, Embedded Systems(IOT), Cyber Defense, Machine Learning, Systems & Scripting.
 
-[![Stack](https://skillicons.dev/icons?i=c,cpp,c#,java,python,javascript,rust,go,bash,powershell&perline=4)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=c,cpp,c#,java,python,javascript,rust,go,bash,powershell&perline=3)](https://skillicons.dev)
