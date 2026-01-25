@@ -1,7 +1,7 @@
-# 👋 Hello, I'm [Your Name]
-### Cybersecurity Researcher | Systems Programmer | Full-Stack Developer
+# 👋 Hello, I'm Tarun Kakani
+### Cybersecurity Researcher | Systems Programmer | Full-Stack Developer | Devops & Cloud
 
-I am a 2nd-year BCS student based in India, obsessed with understanding system internals from the kernel up to the cloud. I balance my time between hardening Linux servers and building scalable, AI-driven applications.
+I am a 2nd-year CS student, obsessed with understanding system internals from the kernel up to the cloud. I balance my time between hardening Linux servers and building scalable, AI-driven applications.
 
 ---
 
@@ -39,15 +39,12 @@ I am a 2nd-year BCS student based in India, obsessed with understanding system i
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunKakani&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunKakani&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🎯 2026 Objectives
 - [ ] Complete **CCNA** Certification.
-- [ ] Migrate all personal services to a hardened **KVM/QEMU** architecture.
-- [ ] Master **Go** for backend microservices.
-- [ ] Transition from 55kg to 70kg (The Fitness Grind 🏋️‍♂️).
 
-📫 **How to reach me:** [Your Email or LinkedIn Link]
+📫 **How to reach me:** tarunkakani007@gmail.com
