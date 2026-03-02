@@ -33,8 +33,7 @@ Currently, my focus is divided between mastering network architecture, understan
 * **Hardware / Embedded:** Designing a hardware-based encrypted radio communication device for a cryptography initiative. 
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-*(Replace `YOUR_GITHUB_USERNAME` with your actual username)*
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunKakani&show_icons=true&theme=tokyonight)
 
 ---
 *"You can't secure what you don't understand."*
