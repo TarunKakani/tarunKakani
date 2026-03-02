@@ -1,39 +1,45 @@
-# ⚡️ Hello, World. I'm watchdog
+```text
+Connecting to 127.0.0.1...
+Connection established.
+```
 
-### CS Undergrad | Systems Enthusiast | Aspiring Security Engineer
+# `>_ ssh watchdog@system.local`
 
-I am a second-year Computer Science student focused on the intersection of low-level systems, networking, and cybersecurity. I prefer learning by breaking things down to their absolute fundamentals—whether that means routing packets in a home lab, analyzing binaries, or building backends from scratch.
+> **`[STATUS]:`** `ACTIVE`
+> **`[ROLE]:`** `CS Undergrad | Systems Engineer | Threat Analyst`
+> **`[MOTD]:`** *"You can't secure a system until you know exactly how to break it."*
 
-Currently, my focus is divided between mastering network architecture, understanding OS internals, and building a strong foundation in full-stack development.
+I operate at the intersection of low-level systems architecture and defensive/offensive security. Rather than just relying on high-level abstractions, I build environments from the ground up to understand exactly how packets route, how memory is allocated, and how execution flows. 
 
-### 🎯 Current Focus
-* **Cybersecurity & Internals:** Diving into Linux/Windows internals, tackling TryHackMe rooms, and taking my first steps into malware analysis and reverse engineering using tools like Ghidra.
-* **Networking:** Deeply passionate about network architecture and traffic analysis. Currently studying for my CCNA.
-* **Systems Engineering:** Learning system design and architecture. I enjoy building things from scratch (like custom kernels and CLI shells) to understand how memory and processes work under the hood.
-* **Backend & DevOps:** Building robust web services and managing deployments using containerization and virtualization. 
+My primary playground is the terminal, and my focus is on tearing down and securing complex architectures.
 
-### 🛠️ Arsenal & Tech Stack
+### `> ./execute --current-focus`
 
-**Languages**
-> Python • C • C++ (Intermediate) • JavaScript • Bash • PowerShell • *Exploring: Rust & Assembly*
+* **Homelabbing & Infrastructure:** Architecting isolated, self-hosted environments. I heavily utilize KVM/QEMU and containerization (Docker/Podman) across multiple Linux distributions (Rocky, Fedora, Ubuntu) to simulate enterprise networks.
+* **Network & Host-Based Security:** Obsessed with traffic analysis and perimeter defense. Currently engineering a localized Blue Team lab integrating **Suricata** (NIDS), **Wazuh** (HIDS), and complex **Firewalld** state configurations to monitor anomalies and drop malicious payloads. Studying for CCNA to cement routing protocols.
+* **Internals & Reverse Engineering:** Diving deep into Windows/Linux internals. Learning the anatomy of malware and analyzing stripped binaries using tools like **Ghidra**. 
+* **Backend Systems:** Building robust, secure web services and APIs from scratch to understand exactly how authentication and data flow can be exploited or hardened.
 
-**Backend & Web**
-> FastAPI • Bun • React • Next.js
+### `> cat /usr/local/bin/arsenal`
 
-**Infrastructure & DevOps**
-> Docker • Podman • KVM/QEMU • Linux (Rocky, Fedora, Ubuntu)
+| `[MODULE]` | `[TECHNOLOGY_STACK]` |
+| :--- | :--- |
+| **`SYS.LANG`** | `C` `•` `C++` `•` `Python` `•` `JavaScript` `•` `Bash` `•` `PowerShell` |
+| **`SYS.WEB`** | `FastAPI` `•` `Bun` `•` `React` `•` `Next.js` |
+| **`SYS.SEC`** | `Suricata` `•` `Wazuh` `•` `Firewalld` `•` `Nmap` `•` `Wireshark` `•` `Ghidra` |
+| **`SYS.OPS`** | `Docker` `•` `Podman` `•` `KVM/QEMU` `•` `Linux Internals` |
 
-**Security & Blue Team**
-> Nmap • Wireshark • Suricata • Wazuh • Ghidra
+### `> ps aux | grep active_operations`
 
-### 💻 What I'm Building (or Breaking)
-* **Blue Team Home Lab:** Designing an IDS/IPS environment on a dedicated home server using Suricata, Wazuh, and Firewalld for traffic analysis and threat detection.
-* **Web Server Assessment Tool:** Developing an automated vulnerability scanning utility integrating Nmap and Nikto via Python.
-* **Custom Kernel & Shell:** Writing a minimal operating system kernel and command-line interface from scratch in C to master OS fundamentals.
-* **Hardware / Embedded:** Designing a hardware-based encrypted radio communication device for a cryptography initiative. 
+* `[PID 101]` **`Blue_Team_Nexus`** - Bare-metal server deployment acting as a centralized IDS/IPS, utilizing custom firewall rulesets, SSHGuard, and Wazuh agents for comprehensive host and network monitoring.
+* `[PID 102]` **`Vulnerability_Scanner`** - Automated web server security assessment utility integrating Nmap and Nikto engines via Python logic.
+* `[PID 103]` **`Kernel_Space`** - Developing a custom, minimal OS kernel and command-line shell from scratch in C to master process scheduling and memory management.
+* `[PID 104]` **`Hardware_Crypto`** - Engineering a hardware-based encrypted radio communication device for secure, off-grid data transmission.
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunKakani&show_icons=true&theme=tokyonight)
+### `> ping -c 4 github_stats`
+![System Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=hacker&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&icon_color=00FF00)
+*(Replace `YOUR_GITHUB_USERNAME` with your actual username)*
 
----
-*"You can't secure what you don't understand."*
+```text
+Connection closed by foreign host.
+```
