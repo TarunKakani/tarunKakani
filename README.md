@@ -1,4 +1,4 @@
-# ⚡️ Hello, World. I'm [Your Name / watchdog]
+# ⚡️ Hello, World. I'm watchdog
 
 ### CS Undergrad | Systems Enthusiast | Aspiring Security Engineer
 
