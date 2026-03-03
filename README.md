@@ -38,6 +38,8 @@ My primary playground is the terminal, and my focus is on tearing down and secur
 
 ### `> ping -c 4 github_stats`
 ![SYSTEM STATS](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarunKakani&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TarunKakani&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TarunKakani&theme=tokyonight)
 
 ```text
 Connection closed by foreign host.
