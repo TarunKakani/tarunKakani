@@ -7,6 +7,7 @@ Connection established.
 
 > **`[STATUS]:`** `ACTIVE`
 > **`[ROLE]:`** `CS Undergrad | Systems Engineer | Threat Analyst`
+
 > **`[MOTD]:`** *"You can't secure a system until you know exactly how to break it."*
 
 > **`[NO.BS]:`** *"I don't like this AI Slop."*
