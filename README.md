@@ -37,8 +37,7 @@ My primary playground is the terminal, and my focus is on tearing down and secur
 * `[PID 104]` **`Hardware_Crypto`** - Engineering a hardware-based encrypted radio communication device for secure, off-grid data transmission.
 
 ### `> ping -c 4 github_stats`
-![System Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=hacker&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&icon_color=00FF00)
-*(Replace `YOUR_GITHUB_USERNAME` with your actual username)*
+![System Stats](https://github-readme-stats.vercel.app/api?username=TarunKakani&show_icons=true&theme=hacker&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&icon_color=00FF00)
 
 ```text
 Connection closed by foreign host.
