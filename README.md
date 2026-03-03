@@ -37,7 +37,7 @@ My primary playground is the terminal, and my focus is on tearing down and secur
 * `[PID 104]` **`Hardware_Crypto`** - Engineering a hardware-based encrypted radio communication device for secure, off-grid data transmission.
 
 ### `> ping -c 4 github_stats`
-
+![SYSTEM STATS](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarunKakani&theme=tokyonight)
 
 ```text
 Connection closed by foreign host.
