@@ -6,19 +6,21 @@ Connection established.
 # `>_ ssh watchdog@system.local`
 
 > **`[STATUS]:`** `ACTIVE`
-> **`[ROLE]:`** `CS Undergrad | Exploit Development | Malware Analyst | Kernel Engineer`
+> **`[ROLE]:`** `CS Undergrad | Exploit Development | Analyzing Malware | Low Level Systems`
 
 > **`[MOTD]:`** *"You can't secure a system until you know exactly how to break it."*
 
 > **`[NO.BS]:`** *"I don't like frontend decoration."*
 
-I operate at the intersection of low-level systems architecture and defensive/offensive security. Rather than just relying on high-level abstractions, I build environments from the ground up to understand exactly how packets route, how memory is allocated, and how execution flows. 
-
-My primary playground is the terminal, and my focus is on tearing down and securing complex architectures.
+3rd-year CS student specializing in reverse engineering and exploit development. Currently working through x86-64 internals and binary exploitation.
 
 ### `> ./execute --current-focus`
 
-* **Homelabbing & Infrastructure:** Architecting isolated, self-hosted environments. I heavily utilize KVM/QEMU and containerization (Docker/Podman) across multiple Linux distributions (Rocky, Fedora, Ubuntu) to simulate enterprise networks.
+* **CTF's:**
+* **Reverse Engineering:**
+* **x64/x86 ASM:**
+* **Binary Exploitation:**
+* **PNPT:**
 
 
 ### `> cat /usr/local/bin/arsenal`
@@ -26,18 +28,14 @@ My primary playground is the terminal, and my focus is on tearing down and secur
 | `[MODULE]` | `[TECHNOLOGY_STACK]` |
 | :--- | :--- |
 | **`SYS.LANG`** | `C` `•` `C++` `•` `Python` `•` `Bash` `•` `PowerShell` |
-| **`SYS.SEC`** | `Firewalld` `•` `Nmap` `•` `Wireshark` `•` `Ghidra` |
-| **`SYS.OPS`** | `OS Internals` |
+| **`SYS.TOOLS`** | `Ghidra/x64dbg/IDA Pro` `•` `gdb (gef + pwndbg)` `•` `pwntools`  |
+
 
 ### `> ps aux | grep active_operations`
 
 * `[PID 101]` **`Blue_Team_Nexus`** - Bare-metal server deployment acting as a centralized IDS/IPS, utilizing custom firewall rulesets, SSHGuard, and Wazuh agents for comprehensive host and network monitoring.
 
 
-### `> ping -c 4 github_stats`
-![SYSTEM STATS](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarunKakani&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TarunKakani&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TarunKakani&theme=tokyonight)
 
 ```text
 Connection closed by foreign host.
