@@ -27,7 +27,7 @@ Connection established.
 
 | `[MODULE]` | `[TECHNOLOGY_STACK]` |
 | :--- | :--- |
-| **`SYS.LANG`** | `C` `•` `C++` `•` `Python` `•` `Bash` `•` `PowerShell` |
+| **`SYS.LANG`** | `x64/86 Asm` `•` `C` `•` `C++` `•` `Python` `•` `Bash` `•` `PowerShell` |
 | **`SYS.TOOLS`** | `Ghidra/x64dbg/IDA Pro` `•` `gdb (gef + pwndbg)` `•` `pwntools`  |
 
 
