@@ -27,14 +27,15 @@ Connection established.
 
 | `[MODULE]` | `[TECHNOLOGY_STACK]` |
 | :--- | :--- |
-| **`SYS.LANG`** | `x64/86 Asm` `•` `C` `•` `C++` `•` `Python` `•` `Bash` `•` `PowerShell` |
-| **`SYS.TOOLS`** | `Ghidra/x64dbg/IDA Pro` `•` `gdb (gef + pwndbg)` `•` `pwntools`  |
+| **`SYS.LANGUAGES`** | `x64/86 Asm` `•` `C` `•` `C++` `•` `Python` `•` `Bash` `•` `PowerShell` |
+| **`SYS.TOOLS`** | `Ghidra/x64dbg/IDA Pro` `•` `gdb (gef + pwndbg)` `•` `pwntools` |
+| **`SYS.HARDWARE`** | `` `•` `` |
+| **`SYS.KERNEL`** | `` `•` `` |
 
 
 ### `> ps aux | grep active_operations`
 
-* `[PID 101]` **`Blue_Team_Nexus`** - Bare-metal server deployment acting as a centralized IDS/IPS, utilizing custom firewall rulesets, SSHGuard, and Wazuh agents for comprehensive host and network monitoring.
-
+* `[PID 101]` **`Equinox`** - A vault based cli password manager fully written in c++. Using argon2id and AES-GCM for encryption.
 
 
 ```text
